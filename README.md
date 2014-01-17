@@ -1,16 +1,6 @@
-# Bitová pole
+IJC: Bitová pole
+====================================
+Projekt do předmětu Jazyk C (2. semestr FIT VUT) ve stavu, v jakém byl odevzdán k hodnocení.
 
-Projekty jsou zde v takovém stavu, ve kterém jsem je odevzdával k hodnocení.
-
-## Hodnocení
-
+### Hodnocení
 9/15
-
-### Chyby
-
- * -1.0 ppm.c:57 resource leak
- * -2.0 parametry & návratová hodnota inline fcí (copy&paste hlaviček maker) #banghead
- * -1.0 steg-decode.c: memory leak
- * -1.0 ppm_read() nedetekuje neplatné soubory
- * -1.0 makra neodpovídají zadání
-
